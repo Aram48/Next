@@ -1,0 +1,21 @@
+@import url("https://cdn.jsdelivr.net/npm/bulma@1.0.1/css/bulma.min.css");
+
+
+:root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.list {
+  width: 650px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 50px;
+}
+
+.list img {
+  width: 80px;
+  height: 160px;
+}

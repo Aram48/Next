@@ -1,0 +1,32 @@
+[
+    {
+        "id": 101,
+        "title": "Psychology",
+        "price": 40,
+        "photo": "https://m.media-amazon.com/images/I/81c6E2VdT3L._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+        "id": 102,
+        "title": "Sociology",
+        "price": 50,
+        "photo": "https://images.booksense.com/images/568/458/9781465458568.jpg"
+    },
+    {
+        "id": 103,
+        "title": "Anthropology",
+        "price": 30,
+        "photo": "https://images.booksense.com/images/551/458/9781465458551.jpg"
+    },
+    {
+        "id": 104,
+        "title": "Economics",
+        "price": 70,
+        "photo": "https://static.yakaboo.ua/media/cloudflare/product/webp/352x340/9/7/9780241566237.jpg"
+    },
+    {
+        "id": 105,
+        "title": "Biology",
+        "price": 80,
+        "photo": "https://m.media-amazon.com/images/I/71DeE5ksYEL._UX250_.jpg"
+    }
+]
